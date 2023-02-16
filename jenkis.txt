@@ -1,0 +1,16 @@
+Jenkins initial setup is required. An admin user has been created and a password generated.
+Feb 09 12:02:19 jenkins jenkins[4623]: Please use the following password to proceed to installation:
+Feb 09 12:02:19 jenkins jenkins[4623]: b2351ed4a351413593a9025a3eb45578
+Feb 09 12:02:19 jenkins jenkins[4623]: This may also be found at: /var/lib/jenkins/secrets/initialAdminPassword
+
+
+
+
+e0d15fe674f647d7b62df13eff1f7c01
+
+
+Feb 16 09:22:52 Jenkins jenkins[39312]: 711901f3b3a843a49e255a78075f5a11
+
+
+
+ pass  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
